@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: lockon
 organization: 
 organization_url: 
-github_username: mzlogin
+github_username: lockon23012
 location: Dalian, China
 email: 1441148547@qq.com
 
@@ -95,14 +95,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: lockon23012
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: lockon23012
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
