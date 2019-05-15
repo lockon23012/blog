@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lockon23012.github.io/lockon.github.io/
+url: https://wang-wayne.github.io
 date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
-description: "lockon的个人博客"
-keywords: 码志, lockon
+description: "wayne的个人博客"
+keywords: 码志, wayne
 timezone: Asia/Dalian
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,10 +15,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: lockon
+author: wayne
 organization: 
 organization_url: 
-github_username: lockon23012
+github_username: wang-wayne
 location: Dalian, China
 email: 1441148547@qq.com
 
