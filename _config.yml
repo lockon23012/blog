@@ -102,7 +102,7 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: wang-wayne
+    owner: wang-wayne.github.io
     repo: blog-comments
     clientID: 0b484aeead869d802b2c
     clientSecret: 55aba7d0edc01173ed88ca45af0836fa6c56e936
