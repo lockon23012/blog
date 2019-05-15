@@ -103,7 +103,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: wang-wayne
-    repo: wang-wayne.github.io
+    repo: wang-wayne/wang-wayne.github.io
     clientID: 0b484aeead869d802b2c
     clientSecret: 55aba7d0edc01173ed88ca45af0836fa6c56e936
 # 在使用其它评论组件时可点击显示 Disqus
